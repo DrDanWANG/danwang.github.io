@@ -4,19 +4,19 @@ main:
     url: https://drdanwang.github.io/publications/ #/publications/
 
   - title: "Talks"
-    url: https://drdanwang.github.io/talks/    
+    url: https://drdanwang.github.io/talks/ #    
 
   - title: "Awards"
-    url: /teaching/    
+    url: https://drdanwang.github.io/teaching/ #/teaching/   
     
   - title: "Research Projects"
-    url: /portfolio/
+    url: https://drdanwang.github.io/portfolio/ #/portfolio/
         
   - title: "Talks"
-    url: /year-archive/
+    url: https://drdanwang.github.io/year-archive/ #/year-archive/
     
   - title: "Teaching"
-    url: /cv/
+    url: https://drdanwang.github.io/year-archive/cv/ #/cv/
     
   - title: "CV"
-    url: /markdown/
+    url: https://drdanwang.github.io/year-archive/cv/markdown/ #/markdown/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Dr. Dan WANG's Personal Websites"
+title: "Dr. Dan WANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

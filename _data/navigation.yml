@@ -16,7 +16,7 @@ main:
     url: https://drdanwang.github.io/year-archive/ #/year-archive/
     
   - title: "Teaching"
-    url: https://drdanwang.github.io/year-archive/cv/ #/cv/
+    url: https://drdanwang.github.io/cv/ #/cv/
     
   - title: "CV"
-    url: https://drdanwang.github.io/year-archive/cv/markdown/ #/markdown/
+    url: https://drdanwang.github.io/markdown/ #/markdown/

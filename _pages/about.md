@@ -13,7 +13,7 @@ Biography
 Dr. Dan WANG is an Associate Professor in the School of Hotel and Tourism Management at The Hong Kong Polytechnic University. 
 
 
-Professional positions 
+Professional Position 
 ======
 Associate Professor, School of Hotel and Tourism Management, The Hong Kong Polytechnic University
 

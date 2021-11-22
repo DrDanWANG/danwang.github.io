@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: https://drdanwang.github.io/publications/ #/publications/
 
-  - title: "Talks"
-    url: https://drdanwang.github.io/talks/ #    
+  - title: "Awards"
+    url: https://drdanwang.github.io/markdown/ #    
 
   - title: "Awards"
     url: https://drdanwang.github.io/teaching/ #/teaching/   
@@ -13,10 +13,10 @@ main:
     url: https://drdanwang.github.io/portfolio/ #/portfolio/
         
   - title: "Talks"
-    url: https://drdanwang.github.io/year-archive/ #/year-archive/
+    url: https://drdanwang.github.io/talks/ #/year-archive/
     
   - title: "Teaching"
     url: https://drdanwang.github.io/cv/ ##/cv/
     
-  - title: "CV"
-    url: https://drdanwang.github.io/markdown/ #/markdown/
+  - title: "Talks"
+    url: https://drdanwang.github.io/year-archive/ #/markdown/

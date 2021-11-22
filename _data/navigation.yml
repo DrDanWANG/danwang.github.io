@@ -7,7 +7,7 @@ main:
     url: https://drdanwang.github.io/talks/ #/talks/    
 
   - title: "Awards"
-    url: https://drdanwang.github.io/cv/ #/teaching/   
+    url: https://drdanwang.github.io/markdown/ #/teaching/   
     
   - title: "Research Projects"
     url: https://drdanwang.github.io/portfolio/ #/portfolio/
@@ -19,5 +19,5 @@ main:
     url: https://drdanwang.github.io/teaching/ #/cv/
     
   - title: "CV"
-    url: https://drdanwang.github.io/markdown/ #/markdown/
+    url: https://drdanwang.github.io/cv/ #/markdown/
 

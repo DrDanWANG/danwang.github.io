@@ -1,23 +1,23 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://drdanwang.github.io/publications/ #/publications/
-
-  - title: "Talks"
-    url: https://drdanwang.github.io/talks/ #/talks/    
+    url: https://drdanwang.github.io/publications/ #/publications/  
 
   - title: "Awards"
-    url: https://drdanwang.github.io/markdown/ #/teaching/   
+    url: https://drdanwang.github.io/markdown/ #/teaching/  
     
   - title: "Research Projects"
     url: https://drdanwang.github.io/portfolio/ #/portfolio/
-        
-  - title: "Talks"
-    url: https://drdanwang.github.io/year-archive/ #/year-archive/
     
+  - title: "Talks"
+    url: https://drdanwang.github.io/talks/ #/talks/ 
+  
   - title: "Teaching"
     url: https://drdanwang.github.io/teaching/ #/cv/
     
   - title: "CV"
     url: https://drdanwang.github.io/cv/ #/markdown/
 
+  - title: "Talks"
+    url: https://drdanwang.github.io/year-archive/ #/year-archive/
+    

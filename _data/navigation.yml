@@ -4,10 +4,7 @@ main:
     url: https://drdanwang.github.io/publications/ #/publications/
 
   - title: "Awards"
-    url: https://drdanwang.github.io/markdown/ #    
-
-  - title: "Awards"
-    url: https://drdanwang.github.io/teaching/ #/teaching/   
+    url: https://drdanwang.github.io/markdown/ #     
     
   - title: "Research Projects"
     url: https://drdanwang.github.io/portfolio/ #/portfolio/
@@ -16,6 +13,9 @@ main:
     url: https://drdanwang.github.io/talks/ #/year-archive/
     
   - title: "Teaching"
+    url: https://drdanwang.github.io/teaching/ #/teaching/  
+    
+  - title: "CV"
     url: https://drdanwang.github.io/cv/ ##/cv/
     
   - title: "Talks"

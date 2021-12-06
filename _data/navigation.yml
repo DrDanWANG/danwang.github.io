@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: https://drdanwang.github.io/publications/ #/publications/
 
-  - title: "Talks"
+  - title: "Talks-Media Coverage"
     url: https://drdanwang.github.io/talks/ #    
 
   - title: "Teaching"
@@ -12,10 +12,10 @@ main:
   - title: "Research Projects"
     url: https://drdanwang.github.io/portfolio/ #/portfolio/
         
-  - title: "Talks1"
+  - title: "Talks-Invited Speeches"
     url: https://drdanwang.github.io/year-archive/ #/year-archive/
     
-  - title: "Teaching"
+  - title: "CV"
     url: https://drdanwang.github.io/cv/ #/cv/
     
   - title: "Awards"

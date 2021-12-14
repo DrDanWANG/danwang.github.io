@@ -14,4 +14,3 @@ Journal Article
 [Download paper here](https://doi.org/10.1177/0047287519871106)
 
 Wang, D., Kirillova, K., & Lehto, X. (2020). Tourism mobilities through time in China: a developmental and holistic lens. <i>Journal of Travel Research</i>, 59(6), 1073-1090.
-

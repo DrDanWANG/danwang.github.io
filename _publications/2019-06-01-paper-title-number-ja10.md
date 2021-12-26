@@ -1,7 +1,7 @@
 ---
 title: "Hoteliers' service design for mobile-based value co-creation"
 collection: publications
-permalink: /publications/2021-12-01-paper-title-number-ja9
+permalink: /publications/2019-06-01-paper-title-number-ja10
 excerpt: 'Journal Article'
 date: 2019-06-01
 venue: 'International Journal of Contemporary Hospitality Management'

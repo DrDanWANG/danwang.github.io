@@ -1,7 +1,7 @@
 ---
 title: "Travel inspiration in tourist decision making"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja43
+permalink: /publications/2021-11-01-paper-title-number-ja0
 excerpt: "Journal Article"
 date: 2022-06-01
 venue: "Tourism Management"

@@ -1,7 +1,7 @@
 ---
 title: "Pursuing personalization in tourism and hospitality—Current progress and future research"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja54
+permalink: /publications/2021-11-01-paper-title-number-ja53
 excerpt: "Conference paper"
 date: 2019-05-01
 venue: "2019 APacCHRIE & EuroCHRIE Joint Conference cum 4th Global Tourism and Hospitality Conference: East meets West in Hospitality and Tourism Education"

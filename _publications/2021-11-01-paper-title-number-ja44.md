@@ -1,7 +1,7 @@
 ---
 title: "Virtual reality and attitudes toward tourism destinations"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja45
+permalink: /publications/2021-11-01-paper-title-number-ja44
 excerpt: "Book Chapter"
 date: 2017-01-01
 venue: "Information and communication technologies in tourism 2017"

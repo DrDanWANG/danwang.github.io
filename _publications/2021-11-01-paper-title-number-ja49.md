@@ -1,7 +1,7 @@
 ---
 title: "Tourism Policy Implementation at the Local Level in China: A Case Study of Lijiang"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja50
+permalink: /publications/2021-11-01-paper-title-number-ja49
 excerpt: "Book Chapter"
 date: 2013-06-01
 venue: "Information and Communication Technologies in Tourism 2018"

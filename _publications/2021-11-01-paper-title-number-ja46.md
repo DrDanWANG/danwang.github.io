@@ -1,7 +1,7 @@
 ---
 title: "Destination websites"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja47
+permalink: /publications/2021-11-01-paper-title-number-ja46
 excerpt: "Book Chapter"
 date: 2015-09-01
 venue: "Destination websites"

@@ -1,7 +1,7 @@
 ---
 title: "Your Stories Online, The Heuristics of My Next Journey"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja49
+permalink: /publications/2021-11-01-paper-title-number-ja48
 excerpt: "Book Chapter"
 date: 2015-11-01
 venue: "Chinese Outbound Tourism 2.0 2016"

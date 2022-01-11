@@ -1,7 +1,7 @@
 ---
 title: "Engaging customers for value co-creation through mobile instant messaging"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja55
+permalink: /publications/2021-11-01-paper-title-number-ja54
 excerpt: "Conference paper"
 date: 2018-07-01
 venue: "2018 Global Marketing Conference at Tokyo"

@@ -1,7 +1,7 @@
 ---
 title: "Determinants of self-service technology adoption and implementation in hotels: the case of China"
 collection: publications
-permalink: /publications/2019-11-01-paper-title-number-ja5
+permalink: /publications/2021-11-01-paper-title-number-ja5
 excerpt: 'Journal Article'
 date: 2019-11-01
 venue: 'Journal of Hospitality Marketing & Management'

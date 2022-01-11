@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Sharing Economy on the Diversification of Tourism Products: Implications for Tourist Experience"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja48
+permalink: /publications/2021-11-01-paper-title-number-ja47
 excerpt: "Book Chapter"
 date: 2016-01-01
 venue: "Information and Communication Technologies in Tourism 2016"

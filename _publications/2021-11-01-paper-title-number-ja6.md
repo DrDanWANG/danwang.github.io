@@ -1,7 +1,7 @@
 ---
 title: "Mobile-based value co-creation: contextual factors towards customer experiences"
 collection: publications
-permalink: /publications/2020-07-01-paper-title-number-ja6
+permalink: /publications/2021-11-01-paper-title-number-ja6
 excerpt: 'Journal Article'
 date: 2020-07-01
 venue: 'Annals of Tourism Research'

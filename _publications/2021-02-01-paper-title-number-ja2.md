@@ -1,7 +1,7 @@
 ---
 title: "Imbrications of IT and hospitality organizations"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja2
+permalink: /publications/2021-02-01-paper-title-number-ja2
 excerpt: 'Journal Article'
 date: 2021-11-01
 venue: 'Annals of Tourism Research Empirical Insights'

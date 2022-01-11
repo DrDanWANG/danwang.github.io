@@ -1,7 +1,7 @@
 ---
 title: "Entrepreneurship in the contemporary tourism ecosystem: the case of incoming tour operators in Taiwan"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja46
+permalink: /publications/2021-11-01-paper-title-number-ja45
 excerpt: "Book Chapter"
 date: 2017-01-01
 venue: "Information and Communication Technologies in Tourism 2017"

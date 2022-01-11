@@ -1,7 +1,7 @@
 ---
 title: "The New Landscape of Travel: A Comprehensive Analysis of Smartphone Apps"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja52
+permalink: /publications/2021-11-01-paper-title-number-ja51
 excerpt: "Book Chapter"
 date: 2012-01-01
 venue: "Information and Communication Technologies in Tourism 2012"

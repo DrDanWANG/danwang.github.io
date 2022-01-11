@@ -1,7 +1,7 @@
 ---
 title: "Factors Influencing Customers’ Intention to Use Instant Messaging to Communicate with Hotels"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja44
+permalink: /publications/2021-11-01-paper-title-number-ja43
 excerpt: "Book Chapter"
 date: 2017-12-01
 venue: "Information and Communication Technologies in Tourism 2018"

@@ -1,7 +1,7 @@
 ---
 title: "On-site decision-making in smartphone-mediated contexts"
 collection: publications
-permalink: /publications/2021-02-01-paper-title-number-ja1
+permalink: /publications/2021-11-01-paper-title-number-ja1
 excerpt: 'Journal Article'
 date: 2022-02-01
 venue: 'Tourism Management'

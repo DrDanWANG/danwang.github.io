@@ -1,7 +1,7 @@
 ---
 title: "Tourism mobilities through time in China: a developmental and holistic lens"
 collection: publications
-permalink: /publications/2019-12-01-paper-title-number-ja7
+permalink: /publications/2021-11-01-paper-title-number-ja7
 excerpt: 'Journal Article'
 date: 2019-09-01
 venue: 'Journal of Travel Research'

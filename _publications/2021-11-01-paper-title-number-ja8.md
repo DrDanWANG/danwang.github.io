@@ -1,7 +1,7 @@
 ---
 title: "Engaging customers in value co-creation through mobile instant messaging in the tourism and hospitality industry"
 collection: publications
-permalink: /publications/2019-12-01-paper-title-number-ja8
+permalink: /publications/2021-11-01-paper-title-number-ja8
 excerpt: 'Journal Article'
 date: 2019-12-01
 venue: 'Journal of Hospitality & Tourism Research'

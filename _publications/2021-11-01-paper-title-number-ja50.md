@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Strategies to Technological Change: Understanding Travellers Using the Internet for Trip Planning"
 collection: publications
-permalink: /publications/2021-11-01-paper-title-number-ja51
+permalink: /publications/2021-11-01-paper-title-number-ja50
 excerpt: "Book Chapter"
 date: 2014-01-01
 venue: "Information and Communication Technologies in Tourism 2014"
